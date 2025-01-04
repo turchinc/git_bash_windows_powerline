@@ -1,3 +1,7 @@
+Update: 
+* Removed the username@host in the prompt
+* Change font color to black because it currently on dark themes it's not clearly visible.
+
 # Git bash for windows powerline theme
 
 Light & simple powerline theme for Git bash for windows
