@@ -7,8 +7,7 @@ Update:
 
 Light & simple powerline theme for Git bash for windows
 
-![ScreenShot](screenshot.png)
-
+![image](https://github.com/user-attachments/assets/2cb61b65-2b7f-4466-9d91-e389acce20ad)
 
 ## Install:
 
